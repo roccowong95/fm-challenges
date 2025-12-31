@@ -51,6 +51,12 @@ h2 {
 p {
   font-weight: 300;
   font-size: 15px;
-  padding: 0 10px; 
+  padding: 0 10px;
   padding-bottom: 24px;
+}
+
+/* thanks to https://www.frontendmentor.io/solutions/gh-mSCmOf0U42 */
+.attribution {
+  position: absolute;
+  bottom: 1rem;
 }
