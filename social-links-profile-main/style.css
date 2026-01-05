@@ -82,13 +82,14 @@ p {
     font-size: 13px;
     background-color: var(--color-grey-700);
     color: var(--color-white);
+    text-decoration: none;
 
     border-radius: 5px;
 
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 2.5rem;
+    padding: 0.8rem 0;
     text-align: center;
 }
 
